@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url('/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2') format("woff2")
+  }
+
+  @font-face {
+    font-family:"Font Awesome 5 Brands";
+    font-style:normal;
+    font-weight:400;
+    font-display:block;
+    src: url('/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2') format("woff2")
+  }
